@@ -1,6 +1,6 @@
 {
 "title": "CMC Property Set Manager Test",
-"url": "https://YOUR-USERNAME.github.io/cmc-property-set-extension/index.html",
+"url": "https://raw.githubusercontent.com/sajaccmc/cmc-property-set-extension/main/index.html",
 "icon": "https://cdn-icons-png.flaticon.com/32/2921/2921222.png",
 "description": "Creates the CMC-Default property set library with standard CMC properties.",
 "enabled": true
